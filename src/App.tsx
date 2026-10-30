@@ -1,4 +1,3 @@
-```tsx
 function App() {
   return (
     <div className="flex min-h-screen items-start bg-blue-700 p-4 text-white">
@@ -8,4 +7,3 @@ function App() {
 }
 
 export default App
-```
